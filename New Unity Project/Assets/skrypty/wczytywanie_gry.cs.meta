@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8ebf8f255ed00b94d87e1322729f79df
+timeCreated: 1427146043
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pomocne_wczytywanie: {fileID: 100000, guid: aad44c35231faf948a9dc7d087fd9a65,
+      type: 2}
+  - wojownik: {fileID: 100146, guid: 3e6542b1bdec44847bcc03857830492c, type: 2}
+  - drzewo: {fileID: 100000, guid: e72e2af9bff6fb4429d26614098cdca0, type: 2}
+  - robotnik: {fileID: 100144, guid: 4ab07b8fb9574934e82b08e8c42fe3bb, type: 2}
+  - uzdrowiciel: {fileID: 138044, guid: ba04a40e1387ac944b20d6762ac1d6c4, type: 2}
+  - chata: {fileID: 100004, guid: d020644c6ddd2c94996756e6f17d4248, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
